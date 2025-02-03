@@ -3,7 +3,7 @@
 1. custom_nodes/ComfyUI_IPAdapter_plus - git clone https://github.com/cubiq/ComfyUI_IPAdapter_plus.git
 2. custom_nodes/ComfyUI_UltimateSDUpscale - git clone https://github.com/ssitu/ComfyUI_UltimateSDUpscale.git --recursive
 3. custom_nodes/ComfyUI-Custom-Scripts - git clone https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
-4. custom_nodes/ComfyUI-Easy-Use - https://github.com/yolain/ComfyUI-Easy-Use.git
+4. custom_nodes/ComfyUI-Easy-Use - git clone https://github.com/yolain/ComfyUI-Easy-Use.git
 5. custom_nodes/ComfyUI-Florence2 - git clone https://github.com/kijai/ComfyUI-Florence2.git
 6. custom_nodes/ComfyUI-IC-Light - git clone https://github.com/kijai/ComfyUI-IC-Light.git
 7. custom_nodes/ComfyUI-ReActor - git clone https://github.com/Gourieff/ComfyUI-ReActor.git
